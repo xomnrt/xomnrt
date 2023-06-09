@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @xomnrt. My name is Ekaterina and I'm new to data analysis. 
+- 👋 Hi, I’m @xomnrt. My name is Ekaterina and I'd like to become the coolest front-end developer. 
 - 👀 I’m interested in learning languages (both natural and programming)
-- 🌱 I’m currently learning how to code using python
+- 🌱 I’m currently learning HTML, CSS & JavaScript.
 - 📫 You can contact me via telegram t.me/xomnrt or email xomnrt1@ya.ru
 
 <!---
