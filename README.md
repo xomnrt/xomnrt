@@ -11,7 +11,7 @@ The technologies I'm working with are JavaScript, CSS and HTML. I have experienc
 I'm always eager to learn something new - I studied courses on programming fundamentals, mathematical logic and discrete mathematics at Stepik and Hexlet. I actively study foreign languages - my favourites so far are English, Mandarin Chinese and French. In my university years I wrote my diploma and gave multiple presentations at conferences in English. I also was an exchange student in China and worked with Chinese colleagues. ﻿
 
 * 🌍  I'm based in Moscow
-* ✉️  You can contact me at [xomnrt1@yandex.ru](mailto:xomnrt1@yandex.ru) or telegram [t.me/xomnrt](t.me/xomnrt)
+* ✉️  You can contact me at [xomnrt1@yandex.ru](mailto:xomnrt1@yandex.ru)
 * 🧠  I'm learning Hexlet Frontend-developer course
 
 
