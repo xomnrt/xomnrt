@@ -6,7 +6,7 @@ Frontend Developer
 
 I'm interested in web development, foreign and programming and languages. I'm currently pursuing a profession as a JavaScript developer, previously I was involved in data analysis with python(pandas). 
 
-The technologies I'm working with are JavaScript, CSS and HTML. I have experience with SASS, Pug, HTTP API, I know how to write HTTP requests and  SQL queries. My past experience in data analysis helps me to better understand user needs, find places for optimization, design application architecture, and work with large amounts of data.
+The technologies I'm working with are JavaScript, CSS and HTML. I have experience with SASS, Pug, HTTP API, I know how to write HTTP requests and  SQL queries. I also write tests for my code using Jest. My past experience in data analysis helps me to better understand user needs, find places for optimization, design application architecture, and work with large amounts of data.
 
 I'm always eager to learn something new - I studied courses on programming fundamentals, mathematical logic and discrete mathematics at Stepik and Hexlet. I actively study foreign languages - my favourites so far are English, Mandarin Chinese and French. In my university years I wrote my diploma and gave multiple presentations at conferences in English. I also was an exchange student in China and worked with Chinese colleagues. ﻿
 
