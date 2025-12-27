@@ -5,7 +5,7 @@ TS + React + Sass, Next.js, Vite, Jest, Playwright
 
 ✉️ [xomnrt1@yandex.ru](mailto:xomnrt1@yandex.ru)
   
-I'm interested in web development, foreign and programming languages.
+I'm interested in web development, UI/UX, foreign and programming languages.
 
 
 ![image](https://www.codewars.com/users/xomnrt/badges/large)
