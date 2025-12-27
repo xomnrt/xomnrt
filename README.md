@@ -3,7 +3,6 @@ UI web-developer
 
 TS + React + Sass, Next.js, Vite, Jest, Playwright
 
-* 🌍  Moscow
 * ✉️ [xomnrt1@yandex.ru](mailto:xomnrt1@yandex.ru)
   
 I'm interested in web development, foreign and programming languages.
