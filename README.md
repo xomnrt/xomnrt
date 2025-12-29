@@ -1,4 +1,4 @@
-UI web-developer
+web-developer
 =================================
 
 TS + React + Sass, Next.js, Vite, Jest, Playwright
