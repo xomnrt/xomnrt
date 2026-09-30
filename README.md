@@ -2,6 +2,7 @@ web-developer
 =================================
 
 TS + React + Sass, Next.js, Vite, Jest, Playwright
+python, node.js, SQL (POSTGRES)
 
 ✉️ [xomnrt1@yandex.ru](mailto:xomnrt1@yandex.ru)
   
